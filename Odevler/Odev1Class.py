@@ -53,7 +53,6 @@ class DataClass:
         plt.title("dagilim grafgi")
         plt.show();
 
-
 a=DataClass()
 a.ortalama()
 a.pdf_ciz()
