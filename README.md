@@ -7,3 +7,6 @@
 
 
 [Odev2-2](https://github.com/UVBMOB/AnkaraMlBootcamp/blob/master/Odevler/odev2/odev2-2.ipynb) t-test
+
+
+[Odev3](https://github.com/UVBMOB/AnkaraMlBootcamp/blob/master/Odevler/odev3/odev3.ipynb) Linear/Multiple Regression
