@@ -10,3 +10,6 @@
 
 
 [Odev3](https://github.com/UVBMOB/AnkaraMlBootcamp/blob/master/Odevler/odev3/odev3.ipynb) Linear/Multiple Regression
+
+
+[Odev4](https://github.com/UVBMOB/AnkaraMlBootcamp/blob/master/Odevler/odev4/odev4.ipynb) LogisticRegression
