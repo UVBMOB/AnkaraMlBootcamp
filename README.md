@@ -13,3 +13,6 @@
 
 
 [Odev4](https://github.com/UVBMOB/AnkaraMlBootcamp/blob/master/Odevler/odev4/odev4.ipynb) LogisticRegression
+
+
+[Odev5](https://github.com/UVBMOB/AnkaraMlBootcamp/blob/master/Odevler/odev5/odev5.ipynb) RandomTreeClassifier-DecisionTreeClassifier-GradientBoostingClassifier
